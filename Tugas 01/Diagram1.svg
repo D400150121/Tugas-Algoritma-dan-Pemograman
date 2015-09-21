@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="37cm" height="36cm" viewBox="145 7 739 703" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <text font-size="13.1403" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="309" y="21.0006">
+    <tspan x="309" y="21.0006">Membuat Algoritma Flowchart untuk mencari </tspan>
+    <tspan x="309" y="37.4259">akar akar persamaan kuadrat</tspan>
+  </text>
+  <g>
+    <path style="fill: #ffffff" d="M 411.354 64.6786 L 497.354,64.6786 C 509.228,64.6786 518.854,74.976 518.854,87.6786 C 518.854,100.381 509.228,110.679 497.354,110.679 L 411.354,110.679 C 399.48,110.679 389.854,100.381 389.854,87.6786 C 389.854,74.976 399.48,64.6786 411.354,64.6786z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 411.354 64.6786 L 497.354,64.6786 C 509.228,64.6786 518.854,74.976 518.854,87.6786 C 518.854,100.381 509.228,110.679 497.354,110.679 L 411.354,110.679 C 399.48,110.679 389.854,100.381 389.854,87.6786 C 389.854,74.976 399.48,64.6786 411.354,64.6786"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.354" y="92.4786">
+      <tspan x="454.354" y="92.4786">Mulai</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.354" y="87.6786">
+    <tspan x="454.354" y="87.6786"></tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="398.707,147.484 541.302,147.484 510,233.484 367.406,233.484 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="398.707,147.484 541.302,147.484 510,233.484 367.406,233.484 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.354" y="171.284">
+      <tspan x="454.354" y="171.284">Input:</tspan>
+      <tspan x="454.354" y="187.284">A (Integer ≠ 0 )</tspan>
+      <tspan x="454.354" y="203.284">B (Integer)</tspan>
+      <tspan x="454.354" y="219.284">C (Integer)</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="454.355,344.342 542.101,392.144 454.355,439.946 366.608,392.144 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="454.355,344.342 542.101,392.144 454.355,439.946 366.608,392.144 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.355" y="396.944">
+      <tspan x="454.355" y="396.944">Diskriminan &gt; 0 ?</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.354" y="392.144">
+    <tspan x="454.354" y="392.144"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="380.978" y="257.786" width="146.75" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380.978" y="257.786" width="146.75" height="54"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.353" y="281.586">
+      <tspan x="454.353" y="281.586">Diskriminan</tspan>
+      <tspan x="454.353" y="297.586">D = B^2 - (4*A*C)</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.353" y="284.786">
+    <tspan x="454.353" y="284.786"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.354" y="392.144">
+    <tspan x="454.354" y="392.144"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.354" y="392.144">
+    <tspan x="454.354" y="392.144"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.354" y="190.484">
+    <tspan x="454.354" y="190.484"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.354" y="190.484">
+    <tspan x="454.354" y="190.484"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="156.154" y="309">
+    <tspan x="156.154" y="309"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="139.352" y="309">
+    <tspan x="139.352" y="309"></tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="178.256,358 310.251,358 278.949,444 146.955,444 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="178.256,358 310.251,358 278.949,444 146.955,444 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="228.603" y="381.8">
+      <tspan x="228.603" y="381.8">Output :</tspan>
+      <tspan x="228.603" y="397.8">Diskiminan = 0</tspan>
+      <tspan x="228.603" y="413.8">X1= - B / 2 * A</tspan>
+      <tspan x="228.603" y="429.8">X2 = X1</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="634.879,362 844.424,362 813.122,448 603.578,448 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="634.879,362 844.424,362 813.122,448 603.578,448 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="724.001" y="385.8">
+      <tspan x="724.001" y="385.8">Output :</tspan>
+      <tspan x="724.001" y="401.8">Diskriminan &gt; 0</tspan>
+      <tspan x="724.001" y="417.8">X1 = (- B +sqrt (D)) / 2 * A </tspan>
+      <tspan x="724.001" y="433.8">X2 = (- B - sqrt (D)) / 2 * A</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="402.208,460 531.978,460 506.501,530 376.73,530 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="402.208,460 531.978,460 506.501,530 376.73,530 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.354" y="483.8">
+      <tspan x="454.354" y="483.8">Output :</tspan>
+      <tspan x="454.354" y="499.8">Diskriminan &lt; 0</tspan>
+      <tspan x="454.354" y="515.8">Akar Imajiner</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="454.354" y1="111.686" x2="454.354" y2="142.007"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="449.354,134.243 454.354,144.243 459.354,134.243 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="454.353" y1="234.412" x2="454.353" y2="252.306"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="449.353,244.542 454.353,254.542 459.353,244.542 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="454.353" y1="311.786" x2="454.354" y2="338.87"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="449.353,331.106 454.354,341.106 459.353,331.106 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="454.354" y1="440.946" x2="454.354" y2="454.543"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="449.354,446.779 454.354,456.779 459.354,446.779 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="542.1" y1="392.144" x2="617.528" y2="392.008"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="609.773,397.022 619.764,392.004 609.755,387.022 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="366.608" y1="392.144" x2="304.472" y2="392.01"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="312.247,387.026 302.236,392.005 312.225,397.026 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="454.433" cy="604.966" rx="32.5673" ry="31.0336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="454.433" cy="604.966" rx="32.5673" ry="31.0336"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.433" y="609.766">
+      <tspan x="454.433" y="609.766"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="454.172" y1="531" x2="454.023" y2="560.528"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="449.062,552.739 454.011,562.764 459.062,552.789 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 691 450 C 624.932,450 558.068,606 496.472,606"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="504.236,601 494.236,606 504.236,611 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 212.952 444 C 279.7,444 347.252,611 409.528,611"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="401.764,616 411.764,611 401.764,606 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 432.525 669 L 477.475,669 C 483.682,669 488.713,677.954 488.713,689 C 488.713,700.046 483.682,709 477.475,709 L 432.525,709 C 426.319,709 421.288,700.046 421.288,689 C 421.288,677.954 426.319,669 432.525,669z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 432.525 669 L 477.475,669 C 483.682,669 488.713,677.954 488.713,689 C 488.713,700.046 483.682,709 477.475,709 L 432.525,709 C 426.319,709 421.288,700.046 421.288,689 C 421.288,677.954 426.319,669 432.525,669"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="455" y="693.8">
+      <tspan x="455" y="693.8">Selesai</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="454.432" y1="636" x2="454.064" y2="661.528"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="449.177,653.693 454.032,663.764 459.176,653.837 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="353" y="29.2006">
+    <tspan x="353" y="29.2006"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="405" y="28.2006">
+    <tspan x="405" y="28.2006"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="724.001" y="405">
+    <tspan x="724.001" y="405"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="417" y="30.201">
+    <tspan x="417" y="30.201"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="611" y="13.201">
+    <tspan x="611" y="13.201"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="454.353" y="284.786">
+    <tspan x="454.353" y="284.786"></tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="633.899,252.738 879.296,252.738 854.91,319.738 609.513,319.738 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="633.899,252.738 879.296,252.738 854.91,319.738 609.513,319.738 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="744.404" y="283.038">
+      <tspan x="744.404" y="283.038">Bukan persamaan akar kuadrat</tspan>
+      <tspan x="744.404" y="299.038">A harus tidak sama dengan 0</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="849" y="204.738">
+    <tspan x="849" y="204.738"></tspan>
+    <tspan x="849" y="220.738"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="803" y="201.738">
+    <tspan x="803" y="201.738"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="744.404" y="286.238">
+    <tspan x="744.404" y="286.238"></tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="527.728" y1="284.786" x2="616.941" y2="285.384"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="609.144,290.332 619.177,285.399 609.211,280.332 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 867.717 286.238 C 921.035,286.238 853,647.738 496.457,618.108"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="504.608,613.768 494.228,617.923 503.78,623.734 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 525.651 190.484 C 585.859,190.484 752.347,216.738 748.855,247.295"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="744.769,239.013 748.601,249.516 754.704,240.149 "/>
+  </g>
+</svg>
